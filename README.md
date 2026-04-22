@@ -54,6 +54,3 @@
 
 ---
 
-## 🚀 Demo
-
-### Web Interface Preview
